@@ -3,10 +3,10 @@ import './homepage.styles.scss'
 import Directory from '../../compoments/directory/directory.compoment'
 
 
- const HomePage = () => (
+ const HomePage = ({history}) => (
    
         <div className='homepage'>
-       <Directory/>
+       <Directory history={history}/>
         </div>
     
 );
