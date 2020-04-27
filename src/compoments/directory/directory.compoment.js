@@ -21,20 +21,18 @@ class Directory extends React.Component {
           imageUrl: 'https://i.ibb.co/px2tCc3/jackets.png',
           id: 2,
           linkUrl: ''
-
         },
         {
           title: 'נעלי ספורט',
           imageUrl: 'https://i.ibb.co/0jqHpnp/sneakers.png',
           id: 3,
           linkUrl: ''
-
-
         },
         {
           title: 'נשים',
           imageUrl: 'https://i.ibb.co/GCCdy8t/womens.png',
           size: 'large',
+          id: 4,
           linkUrl: ''
         },
         {
